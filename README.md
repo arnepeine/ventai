@@ -1,6 +1,6 @@
-**Development and validation of a reinforcement learning algorithm to dynamically optimize mechanical ventilation in critical care
-Arne Peine, Ahmed Hallawa, Johannes Bickenbach, Guido Dartmann, Lejla Begic Fazlic, Anke Schmeink, Gerd Ascheid, Christoph Thiemermann, Andreas Schuppert, Ryan Kindle, Leo Celi, Gernot Marx & Lukas Martin 
-npj Digital Medicine volume 4, Article number: 32 (2021)
+## Development and validation of a reinforcement learning algorithm to dynamically optimize mechanical ventilation in critical care
+### Arne Peine, Ahmed Hallawa, Johannes Bickenbach, Guido Dartmann, Lejla Begic Fazlic, Anke Schmeink, Gerd Ascheid, Christoph Thiemermann, Andreas Schuppert, Ryan Kindle, Leo Celi, Gernot Marx & Lukas Martin 
+#### npj Digital Medicine volume 4, Article number: 32 (2021)
 
 
 The query files in this folder should be run with the following order.
